@@ -2,4 +2,4 @@ Entrega 2
 
 Html y Css
 
-Creacion d LAnding Pag - Navbar
+Creación de Landing Pag - Navbar
